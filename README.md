@@ -19,7 +19,7 @@ Dashboard em tema dark para acompanhar malotes recebidos/enviados, estoque atual
 - Gráfico de rosca com distribuição de crachás por tipo (colaborador, visitante, prestador).
 - Gráfico de barras para movimentação de brindes.
 
-![Dashboard ADM]( <img width="1022" height="570" alt="image" src="https://github.com/user-attachments/assets/78807759-d2f9-474f-8747-4d53419fda9e" />   <img width="1545" height="815" alt="Captura de tela 2026-02-11 092243" src="https://github.com/user-attachments/assets/bcc5ddac-c8ef-4262-ac6a-ae84d38eaeb3" />
+![Dashboard ADM Power Bi](<img width="1022" height="570" alt="image" src="https://github.com/user-attachments/assets/78807759-d2f9-474f-8747-4d53419fda9e" />  ![Dashboard ADM Excel] <img width="1545" height="815" alt="Captura de tela 2026-02-11 092243" src="https://github.com/user-attachments/assets/bcc5ddac-c8ef-4262-ac6a-ae84d38eaeb3" />
 
 ---
 
