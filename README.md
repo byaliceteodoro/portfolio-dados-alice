@@ -1,5 +1,5 @@
 # portfolio-dados-alice
-# Portfólio de Dados – Alice Teodoro
+# Portfólio de Dados – Alice Teodoro - Jovem aprendiz em Administração focada em Análise de Dados, Excel, Power BI e SQL.
 
 Sou estudante do ensino médio e jovem aprendiz em Administração, com foco em Análise de Dados e BI.  
 Aqui compartilho alguns projetos em Excel, Power BI e SQL que estou desenvolvendo para estudo e portfólio.
