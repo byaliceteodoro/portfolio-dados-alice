@@ -20,7 +20,7 @@ Dashboard em tema dark para acompanhar malotes recebidos/enviados, estoque atual
 - Gráfico de barras para movimentação de brindes.
 
 ![Dashboard ADM Power Bi] <img width="895" height="502" alt="image" src="https://github.com/user-attachments/assets/5ffa4fe0-144d-4f86-abbf-04f5ae481893" />      
-![Dashboard ADM Excel] <img width="1256" height="738" alt="Captura de tela 2026-02-19 092736" src="https://github.com/user-attachments/assets/7fb1a1fe-aa0e-419a-a467-0b240be64ccf" />
+![Dashboard ADM Excel] <img width="968" height="583" alt="Captura de tela 2026-02-23 103223" src="https://github.com/user-attachments/assets/1309e736-f8d9-4924-877b-6f99056fcf1e" />
 
 ---
 
